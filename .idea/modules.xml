@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservice-pattern (1).iml" filepath="$PROJECT_DIR$/.idea/Microservice-pattern (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/muzix-service/muzix-service.iml" filepath="$PROJECT_DIR$/muzix-service/muzix-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-zuulgatewayproxy/spring-boot-zuulgatewayproxy.iml" filepath="$PROJECT_DIR$/spring-boot-zuulgatewayproxy/spring-boot-zuulgatewayproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config-server/spring-config-server.iml" filepath="$PROJECT_DIR$/spring-config-server/spring-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eureka-server/spring-eureka-server.iml" filepath="$PROJECT_DIR$/spring-eureka-server/spring-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/userservice.iml" filepath="$PROJECT_DIR$/user-service/userservice.iml" />
+    </modules>
+  </component>
+</project>
